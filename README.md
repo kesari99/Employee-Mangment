@@ -2,17 +2,9 @@
 
 This is a full-stack employee management system built using **React**, **Node.js**, **Express**, **MongoDB**, and **Multer** for image uploads. The system allows administrators to add, view, update, and delete employee details, including the ability to upload and store images for each employee.
 
-## Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation and Setup](#installation-and-setup)
-- [API Endpoints](#api-endpoints)
-- [Screenshots](#screenshots)
-- [License](#license)
 
----
+
 
 ## Features
 
@@ -36,7 +28,6 @@ This is a full-stack employee management system built using **React**, **Node.js
 - Node.js
 - Express.js
 - MongoDB (Mongoose for ORM)
-- Multer (for file uploads)
 
 ### Other Libraries/Tools:
 
@@ -44,5 +35,26 @@ This is a full-stack employee management system built using **React**, **Node.js
 - Fetch API for making HTTP requests
 - dotenv for environment variables
 
-## Project Structure
+
+### Folders:
+
+- **client**: Contains all React frontend files.
+- **server**: Contains the backend code with Express, Mongoose models, and routes.
+
+## Installation and Setup
+
+### Prerequisites
+
+- Node.js installed on your machine.
+- MongoDB (local or cloud instance).
+- NPM or Yarn package manager.
+
+### Backend Setup
+
+1. Clone the repository and navigate into the project directory:
+
+   ```bash
+   git clone <repository_url>
+   
+
 
