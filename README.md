@@ -54,7 +54,7 @@ This is a full-stack employee management system built using **React**, **Node.js
 1. Clone the repository and navigate into the project directory:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/kesari99/Employee-Mangment.git
    
 
 
